@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
+
+* {
+  font-family: "Raleway", sans-serif;
+  text-align: center;
+}
+
+.voltas span {
+  font-size: 288px;
+}
+
+.voltas {
+  font-size: 64px;
+}
+
+button {
+  background-color: #f9f9f9;
+  border: 1px solid black;
+  font-size: 18px;
+  padding: 22px;
+  margin: 8px;
+  border-radius: 5px;
+}
+
+button:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
+
+.tempo span {
+  font-size: 64px;
+}
+
+.bigger {
+  font-size: 144px;
+  line-height: 50px;
+}
